@@ -15,6 +15,27 @@
       "skillPath": "skills/accessible-animation/SKILL.md",
       "computedHash": "396a43fbb461daa4cb93a2795910459ae96c82937f965906b2b84f2703aef76c"
     },
+    "android-intent-security": {
+      "source": "android/skills",
+      "commit": "7f7b21730a605d112ca9f79b6e40105ce7b670ee",
+      "sourceType": "github",
+      "skillPath": "security/android-intent-security/SKILL.md",
+      "computedHash": "41a3b30d26f74c13b6b0471eb750b7a866244a6bd2774e2af5ccbe1ae5cf385f"
+    },
+    "android-permissions-security": {
+      "source": "android/skills",
+      "commit": "7f7b21730a605d112ca9f79b6e40105ce7b670ee",
+      "sourceType": "github",
+      "skillPath": "security/android-permissions-security/SKILL.md",
+      "computedHash": "eb407bbe35d8afe518f7d20d396f097f483657be22f836618169e24edd0712ed"
+    },
+    "anr-audit-and-fix": {
+      "source": "android/skills",
+      "commit": "7f7b21730a605d112ca9f79b6e40105ce7b670ee",
+      "sourceType": "github",
+      "skillPath": "performance/anr-audit-and-fix/SKILL.md",
+      "computedHash": "ab13efcb3b7816b3a0bcbe54245383c85973c87173cb60f3087ee31f2619a54e"
+    },
     "ascii-animation": {
       "source": "iart-ai/web-animation-skills",
       "commit": "ed3a045192679b24d32090ee7a983871311ababd",
@@ -36,6 +57,13 @@
       "skillPath": "skills/frontend-design/SKILL.md",
       "computedHash": "83485963700bcf11d5bf78118facb301676b69d918fee2e45a95e7f1a2840f6c"
     },
+    "gemini-api-dev": {
+      "source": "google-gemini/gemini-skills",
+      "commit": "c4d0c62c1240e08a90546186bf320600ab6a039a",
+      "sourceType": "github",
+      "skillPath": "skills/gemini-api-dev/SKILL.md",
+      "computedHash": "b3823bd7210e46d4528ca85ebc03326842a6df47ced9a856a1729639f9756c12"
+    },
     "glassmorphism": {
       "source": "iart-ai/web-animation-skills",
       "commit": "ed3a045192679b24d32090ee7a983871311ababd",
@@ -49,6 +77,13 @@
       "sourceType": "github",
       "skillPath": "skills/gsap-web/SKILL.md",
       "computedHash": "acd6638268c8bf2d9b0eb935472659dfbc0f072a5237d486e462235b32045177"
+    },
+    "line-art-animation": {
+      "source": "JDhruv14/line-art-animation",
+      "commit": "c43d698913cf0ad44f984c7ae14c5348010594d3",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "2136fdfeff4c15a48b17f34acb399ae5b1dabb8e88431263ecbfca66a341207f"
     },
     "lottie-animation": {
       "source": "iart-ai/web-animation-skills",
@@ -71,12 +106,26 @@
       "skillPath": "skills/page-transition-animation/SKILL.md",
       "computedHash": "23248658c4bbae44a1a11a66a350dffd2cb97a20ebca20dca9369ec63365ef78"
     },
+    "rossark-motion-skill": {
+      "source": "rossark0/rossark-motion-skill",
+      "commit": "9b20964e32f07f8ac7e2948cd175746fa4a7712f",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "afc5b8216f1481ee901fae908333dab6d75af54779dfc15c8f505b355e788e98"
+    },
     "svg-animation": {
       "source": "iart-ai/web-animation-skills",
       "commit": "ed3a045192679b24d32090ee7a983871311ababd",
       "sourceType": "github",
       "skillPath": "skills/svg-animation/SKILL.md",
       "computedHash": "cfcf1a801009db1ee4d5141c749acbf6c5eff23534610c4ac3c87c16580809df"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/webapp-testing/SKILL.md",
+      "computedHash": "48cd9a742a59250edec6db89cf081ef5465f365e2133f6d6c5e29c380b754b7d"
     }
   }
 }
