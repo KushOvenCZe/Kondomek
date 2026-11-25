@@ -1,13 +1,6 @@
 {
   "version": 2,
   "skills": {
-    "60fps-animation": {
-      "source": "iart-ai/web-animation-skills",
-      "commit": "ed3a045192679b24d32090ee7a983871311ababd",
-      "sourceType": "github",
-      "skillPath": "skills/60fps-animation/SKILL.md",
-      "computedHash": "3783bf5371256b4a496fb3a3ee3e345a66887dc9141091b49984e47bad822811"
-    },
     "accessible-animation": {
       "source": "iart-ai/web-animation-skills",
       "commit": "ed3a045192679b24d32090ee7a983871311ababd",
@@ -36,13 +29,6 @@
       "skillPath": "performance/anr-audit-and-fix/SKILL.md",
       "computedHash": "ab13efcb3b7816b3a0bcbe54245383c85973c87173cb60f3087ee31f2619a54e"
     },
-    "ascii-animation": {
-      "source": "iart-ai/web-animation-skills",
-      "commit": "ed3a045192679b24d32090ee7a983871311ababd",
-      "sourceType": "github",
-      "skillPath": "skills/ascii-animation/SKILL.md",
-      "computedHash": "b8b5f56046c43c82c3300d46c4295014c590bc340cb9351cfbe89f41f0a8f2b7"
-    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "commit": "57217cf86ba38148a57af9e90d14a4c049558330",
@@ -64,47 +50,12 @@
       "skillPath": "skills/gemini-api-dev/SKILL.md",
       "computedHash": "b3823bd7210e46d4528ca85ebc03326842a6df47ced9a856a1729639f9756c12"
     },
-    "glassmorphism": {
-      "source": "iart-ai/web-animation-skills",
-      "commit": "ed3a045192679b24d32090ee7a983871311ababd",
-      "sourceType": "github",
-      "skillPath": "skills/glassmorphism/SKILL.md",
-      "computedHash": "52c31c76c1ce3c52485ed43c3dc36796c833972a0f916215392c2b611209a2dc"
-    },
-    "gsap-web": {
-      "source": "iart-ai/web-animation-skills",
-      "commit": "ed3a045192679b24d32090ee7a983871311ababd",
-      "sourceType": "github",
-      "skillPath": "skills/gsap-web/SKILL.md",
-      "computedHash": "acd6638268c8bf2d9b0eb935472659dfbc0f072a5237d486e462235b32045177"
-    },
-    "line-art-animation": {
-      "source": "JDhruv14/line-art-animation",
-      "commit": "c43d698913cf0ad44f984c7ae14c5348010594d3",
-      "sourceType": "github",
-      "skillPath": "SKILL.md",
-      "computedHash": "2136fdfeff4c15a48b17f34acb399ae5b1dabb8e88431263ecbfca66a341207f"
-    },
-    "lottie-animation": {
-      "source": "iart-ai/web-animation-skills",
-      "commit": "ed3a045192679b24d32090ee7a983871311ababd",
-      "sourceType": "github",
-      "skillPath": "skills/lottie-animation/SKILL.md",
-      "computedHash": "1d3c9dac2ff3e7e54f1fb5a622ed5667992efab37966256a1906276d86b254b9"
-    },
     "micro-interaction": {
       "source": "iart-ai/web-animation-skills",
       "commit": "ed3a045192679b24d32090ee7a983871311ababd",
       "sourceType": "github",
       "skillPath": "skills/micro-interaction/SKILL.md",
       "computedHash": "35fe04bed325e1f7cdbf7d25e7327f33b868b854a999eaa0d523a0899331d071"
-    },
-    "page-transition-animation": {
-      "source": "iart-ai/web-animation-skills",
-      "commit": "ed3a045192679b24d32090ee7a983871311ababd",
-      "sourceType": "github",
-      "skillPath": "skills/page-transition-animation/SKILL.md",
-      "computedHash": "23248658c4bbae44a1a11a66a350dffd2cb97a20ebca20dca9369ec63365ef78"
     },
     "rossark-motion-skill": {
       "source": "rossark0/rossark-motion-skill",
